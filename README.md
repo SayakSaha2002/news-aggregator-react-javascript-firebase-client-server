@@ -58,8 +58,9 @@ Visit http://localhost:3000 in your browser.
 ![Image](https://github.com/user-attachments/assets/a40cc4f6-2651-4dd1-b074-0c73e37035e6)
 
 ## Previous Releated Repository link
-[Repo link:]()
-[Repo link:](https://github.com/SayakSaha2002/news-aggregator-react-javascript)
+[Repo link1:](https://github.com/SayakSaha2002/news-aggregator-react-javascript-firebaselogin)
+
+[Repo link2:](https://github.com/SayakSaha2002/news-aggregator-react-javascript)
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
